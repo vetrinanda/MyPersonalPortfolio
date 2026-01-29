@@ -1,0 +1,21 @@
+# FastAPI and server
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Validation and utilities
+pydantic
+python-dotenv
+python-multipart
+
+# RAG and AI
+chromadb
+# sentence-transformers==2.3.1
+pypdf2
+litellm
+
+# CORS and HTTP
+httpx
