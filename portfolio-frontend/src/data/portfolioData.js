@@ -10,7 +10,7 @@ export const portfolioData = {
         bio: `From building simple web applications to developing sophisticated AI agents, my journey in tech has been driven by curiosity and a passion for innovation. Currently, I'm part of Wipro's WAPTE team, where I work at the intersection of AI and software engineering—crafting intelligent solutions using LangChain, LangGraph, and state-of-the-art LLM frameworks. Every day, I tackle new challenges in building AI-powered applications with FastAPI and React, transforming complex requirements into elegant, scalable solutions. Whether it's designing type-safe AI models with Pydantic or creating seamless user experiences with shadcn/ui, I'm constantly learning and evolving. I believe the future of software is intelligent, and I'm excited to be part of building it.`,
         profileImage: "/images/profile.jpg",
         resumePDF: "/files/resume.pdf",
-        email: "n9219382@gmail.com",
+        email: "nk9219382@gmail.com",
         phone: "+91-9353560093",
         location: "Bangalore, India",
         socialLinks: {
