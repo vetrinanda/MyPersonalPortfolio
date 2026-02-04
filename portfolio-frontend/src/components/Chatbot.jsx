@@ -47,7 +47,7 @@ export default function Chatbot({ isOpen, onToggle }) {
 
         try {
             // Try to connect to the backend
-            const response = await fetch('http://localhost:8000/api/chat', {
+            const response = await fetch('https://mypersonalportfolio-2tko.onrender.com/api/chat', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
