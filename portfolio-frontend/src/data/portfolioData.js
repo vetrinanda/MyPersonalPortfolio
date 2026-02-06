@@ -146,25 +146,25 @@ export const portfolioData = {
     projects: [
         {
             id: 1,
-            title: "E-Commerce Platform",
-            description: "A full-stack e-commerce application featuring user authentication, product catalog, shopping cart, and secure payment integration with Stripe. Built with modern best practices and scalable architecture.",
-            technologies: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
+            title: "JustBackend",
+            description: "A production-ready backend system with JWT-based authentication, role-based access control, and secure APIs. Features database-level security using Supabase Row-Level Security (RLS), Redis-style caching, and indexing strategies for improved performance and scalability.",
+            technologies: ["FastAPI", "Supabase", "JWT", "Redis"],
             image: "/images/project1.jpg",
-            githubUrl: "https://github.com/yourusername/ecommerce-platform",
-            liveDemoUrl: "https://ecommerce-demo.com",
+            githubUrl: "https://github.com/vetrinanda/JustBackend",
+            liveDemoUrl: "justbackend-34zy.onrender.com/", // or null if no live demo
             featured: true,
-            date: "Jan 2024 - Present"
+            date: "January 2026"
         },
         {
             id: 2,
-            title: "Task Management App",
-            description: "A collaborative task management tool with real-time updates, team workspaces, and progress tracking. Features drag-and-drop functionality and integrated chat.",
-            technologies: ["Vue.js", "Firebase", "Tailwind CSS", "Socket.io"],
+            title: "AI Recruitment Agent",
+            description: "An AI-driven candidate screening system that automates resume analysis, skill matching, and interview/rejection routing. Integrated Google Gemini for semantic resume parsing, achieving 85%+ accuracy compared to manual review. Features NLP-based resume parsing, semantic similarity matching, and rule-based decision logic with ranking and text-processing algorithms aligned with real-world hiring workflows.",
+            technologies: ["Python", "Langgraph", "Gemini LLM", "NLP"],
             image: "/images/project2.jpg",
-            githubUrl: "https://github.com/yourusername/task-manager",
-            liveDemoUrl: "https://taskmanager-demo.com",
+            githubUrl: "https://github.com/vetrinanda/AI-Recruitment-Agent",
+            liveDemoUrl: "",
             featured: true,
-            date: "Nov 2023 - Dec 2023"
+            date: "January 2026"
         },
         {
             id: 3,
@@ -242,7 +242,7 @@ export const portfolioData = {
                 { name: "FastAPI", percentage: 85 },
                 { name: "RestAPI", percentage: 80 },
                 // { name: "Django", percentage: 70 },
-                { name: "GraphQL", percentage: 65 }
+                // { name: "GraphQL", percentage: 65 }
             ]
         },
         {
@@ -250,8 +250,8 @@ export const portfolioData = {
             category: "Database",
             items: [
                 { name: "MongoDB", percentage: 85 },
-                { name: "PostgreSQL", percentage: 80 },
-                // { name: "MySQL", percentage: 75 },
+                // { name: "PostgreSQL", percentage: 80 },
+                { name: "MySQL", percentage: 75 },
                 { name: "Supabase", percentage: 70 }
                 // { name: "Firebase", percentage: 75 }
             ]
@@ -273,12 +273,12 @@ export const portfolioData = {
     certifications: [
         {
             id: 1,
-            name: "AWS Certified Developer Associate",
-            issuer: "Amazon Web Services",
-            dateIssued: "January 2023",
-            credentialUrl: "https://aws.amazon.com/certification/verify/xxxxx",
-            image: "/images/aws-cert.png",
-            description: "Demonstrated expertise in developing and maintaining applications on AWS, including proficiency with AWS services, tooling, and best practices."
+            name: "Python for Beginners",
+            issuer: "Simplilearn",
+            dateIssued: "June 2025",
+            credentialUrl: "/files/Python_Certificate.pdf",
+            image: "/images/python-cert.png",
+            description: "Completed a comprehensive Python programming course covering fundamental concepts, syntax, data structures, and object-oriented programming principles."
         },
         {
             id: 2,
