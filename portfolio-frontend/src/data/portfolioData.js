@@ -151,7 +151,7 @@ export const portfolioData = {
             technologies: ["FastAPI", "Supabase", "JWT", "Redis"],
             image: "/images/project1.jpg",
             githubUrl: "https://github.com/vetrinanda/JustBackend",
-            liveDemoUrl: "justbackend-34zy.onrender.com/", // or null if no live demo
+            liveDemoUrl: "https://justbackend-34zy.onrender.com/", // or null if no live demo
             featured: true,
             date: "January 2026"
         },
