@@ -282,21 +282,30 @@ export const portfolioData = {
         },
         {
             id: 2,
-            name: "Full Stack Web Development",
-            issuer: "Coursera - Meta",
-            dateIssued: "December 2022",
-            credentialUrl: "https://coursera.org/verify/xxxxx",
+            name: "Web Development Internship",
+            issuer: "OCTANET SERVICES PVT LTD",
+            dateIssued: "Sept  2024",
+            credentialUrl: "/files/Web-dev.pdf",
             image: "/images/meta-cert.png",
-            description: "Comprehensive certification covering React, APIs, databases, and full-stack development best practices."
+            description: "During the internship period, He has demonstrated exceptional dedication, enthusiasm and astrong willingness to learn. They actively engaged in various projects and tasks assigned to them,exhibiting remarkable skills and a high level of professionalism."
         },
         {
             id: 3,
-            name: "Google Cloud Professional Developer",
-            issuer: "Google Cloud",
-            dateIssued: "March 2023",
-            credentialUrl: "https://google.com/verify/xxxxx",
+            name: "VLSI System On Chip Design - Overview",
+            issuer: "Maven-Silicon",
+            dateIssued: "Oct 2024",
+            credentialUrl: "/files/VLSI_System_On_Chip_Design.pdf",
             image: "/images/gcp-cert.png",
-            description: "Validated skills in building scalable applications on Google Cloud Platform using cloud-native technologies."
+            description: "Understanding the VLSI System On Chip Design - Overview."
+        },
+        {
+            id: 4,
+            name: "VLSI System On Chip Design - Overview",
+            issuer: "Maven-Silicon",
+            dateIssued: "Oct 2024",
+            credentialUrl: "/files/VLSI_System_On_Chip_Design.pdf",
+            image: "/images/gcp-cert.png",
+            description: "Understanding the VLSI System On Chip Design - Overview."
         }
     ],
 
