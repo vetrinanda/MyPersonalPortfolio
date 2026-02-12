@@ -168,14 +168,14 @@ export const portfolioData = {
         },
         {
             id: 3,
-            title: "AI Content Generator",
-            description: "An AI-powered content generation tool that creates blog posts, social media content, and marketing copy using OpenAI's GPT models.",
-            technologies: ["Next.js", "OpenAI API", "PostgreSQL", "Prisma"],
+            title: "Customer Support Agent",
+            description: "An AI-powered customer support chatbot built with LangGraph, FastAPI, and React. The agent intelligently categorizes user queries, analyzes sentiment, and routes them to specialized handlers — delivering context-aware support responses in real time through a premium glassmorphic chat interface.",
+            technologies: ["LangGraph", "Gemini API", "FastAPI", "React","Tailwind CSS"],
             image: "/images/project3.jpg",
-            githubUrl: "https://github.com/yourusername/ai-content-gen",
-            liveDemoUrl: "https://aicontent-demo.com",
+            githubUrl: "https://github.com/vetrinanda/Customer-Support-Agent",
+            liveDemoUrl: "https://customer-support-agent-flax.vercel.app",
             featured: true,
-            date: "Sep 2023 - Oct 2023"
+            date: "Feb 2026 - Mar 2026"
         },
         {
             id: 4,
@@ -194,8 +194,8 @@ export const portfolioData = {
             description: "This portfolio website! Built with React and featuring an AI chatbot powered by RAG technology to answer questions about my experience.",
             technologies: ["React", "FastAPI", "ChromaDB", "Tailwind CSS"],
             image: "/images/project5.jpg",
-            githubUrl: "https://github.com/yourusername/portfolio",
-            liveDemoUrl: "#",
+            githubUrl: "https://github.com/vetrinanda/MyPersonalPortfolio",
+            liveDemoUrl: "https://nanda-portfolio-website.vercel.app",
             featured: false,
             date: "Jan 2025"
         },
