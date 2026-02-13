@@ -179,14 +179,14 @@ export const portfolioData = {
         },
         {
             id: 4,
-            title: "Weather Dashboard",
-            description: "A beautiful weather application with location-based forecasts, interactive maps, and historical weather data visualization.",
+            title: "Medi Analyser",
+            description: "Medi Analyser is an advanced, AI-powered medical report analysis tool designed to provide users with comprehensive health insights. By leveraging cutting-edge Large Language Models (LLMs) and a multi-agent architecture, it simulates a team of specialized medical experts to analyze uploaded medical documents.",
             technologies: ["React", "Chart.js", "Weather API", "Mapbox"],
             image: "/images/project4.jpg",
-            githubUrl: "https://github.com/yourusername/weather-app",
-            liveDemoUrl: "https://weather-demo.com",
-            featured: false,
-            date: "Aug 2023"
+            githubUrl: "https://github.com/vetrinanda/Medi-Analyser",
+            liveDemoUrl: "https://medi-analyser.vercel.app",
+            featured: true,
+            date: "Feb 2026 - Mar 2026"
         },
         {
             id: 5,
@@ -196,8 +196,8 @@ export const portfolioData = {
             image: "/images/project5.jpg",
             githubUrl: "https://github.com/vetrinanda/MyPersonalPortfolio",
             liveDemoUrl: "https://nanda-portfolio-website.vercel.app",
-            featured: false,
-            date: "Jan 2025"
+            featured: true,
+            date: "Jan 2026"
         },
         {
             id: 6,
