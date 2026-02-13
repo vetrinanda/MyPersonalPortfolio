@@ -181,7 +181,7 @@ export const portfolioData = {
             id: 4,
             title: "Medi Analyser",
             description: "Medi Analyser is an advanced, AI-powered medical report analysis tool designed to provide users with comprehensive health insights. By leveraging cutting-edge Large Language Models (LLMs) and a multi-agent architecture, it simulates a team of specialized medical experts to analyze uploaded medical documents.",
-            technologies: ["React", "Chart.js", "Weather API", "Mapbox"],
+            technologies: ["React", "FastAPI", "LangChain", "Google Gemini AI"],
             image: "/images/project4.jpg",
             githubUrl: "https://github.com/vetrinanda/Medi-Analyser",
             liveDemoUrl: "https://medi-analyser.vercel.app",
