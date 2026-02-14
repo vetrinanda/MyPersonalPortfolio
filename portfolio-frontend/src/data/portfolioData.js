@@ -149,7 +149,7 @@ export const portfolioData = {
             title: "JustBackend",
             description: "A production-ready backend system with JWT-based authentication, role-based access control, and secure APIs. Features database-level security using Supabase Row-Level Security (RLS), Redis-style caching, and indexing strategies for improved performance and scalability.",
             technologies: ["FastAPI", "Supabase", "JWT", "Redis"],
-            image: "/images/project1.jpg",
+            image: "/images/backend.jpeg",
             githubUrl: "https://github.com/vetrinanda/JustBackend",
             liveDemoUrl: "https://justbackend-34zy.onrender.com/", // or null if no live demo
             featured: true,
@@ -160,7 +160,7 @@ export const portfolioData = {
             title: "AI Recruitment Agent",
             description: "An AI-driven candidate screening system that automates resume analysis, skill matching, and interview/rejection routing. Integrated Google Gemini for semantic resume parsing, achieving 85%+ accuracy compared to manual review. Features NLP-based resume parsing, semantic similarity matching, and rule-based decision logic with ranking and text-processing algorithms aligned with real-world hiring workflows.",
             technologies: ["Python", "Langgraph", "Gemini LLM", "NLP"],
-            image: "/images/project2.jpg",
+            image: "/images/ai.jpeg",
             githubUrl: "https://github.com/vetrinanda/AI-Recruitment-Agent",
             liveDemoUrl: "",
             featured: true,
@@ -171,7 +171,7 @@ export const portfolioData = {
             title: "Customer Support Agent",
             description: "An AI-powered customer support chatbot built with LangGraph, FastAPI, and React. The agent intelligently categorizes user queries, analyzes sentiment, and routes them to specialized handlers — delivering context-aware support responses in real time through a premium glassmorphic chat interface.",
             technologies: ["LangGraph", "Gemini API", "FastAPI", "React","Tailwind CSS"],
-            image: "/images/project3.jpg",
+            image: "/images/customer.jpeg",
             githubUrl: "https://github.com/vetrinanda/Customer-Support-Agent",
             liveDemoUrl: "https://customer-support-agent-flax.vercel.app",
             featured: true,
@@ -182,7 +182,7 @@ export const portfolioData = {
             title: "Medi Analyser",
             description: "Medi Analyser is an advanced, AI-powered medical report analysis tool designed to provide users with comprehensive health insights. By leveraging cutting-edge Large Language Models (LLMs) and a multi-agent architecture, it simulates a team of specialized medical experts to analyze uploaded medical documents.",
             technologies: ["React", "FastAPI", "LangChain", "Google Gemini AI"],
-            image: "/images/project4.jpg",
+            image: "/images/medical.png",
             githubUrl: "https://github.com/vetrinanda/Medi-Analyser",
             liveDemoUrl: "https://medi-analyser.vercel.app",
             featured: true,
@@ -193,7 +193,7 @@ export const portfolioData = {
             title: "Portfolio Website",
             description: "This portfolio website! Built with React and featuring an AI chatbot powered by RAG technology to answer questions about my experience.",
             technologies: ["React", "FastAPI", "ChromaDB", "Tailwind CSS"],
-            image: "/images/project5.jpg",
+            image: "/images/portfolio.jpeg",
             githubUrl: "https://github.com/vetrinanda/MyPersonalPortfolio",
             liveDemoUrl: "https://nanda-portfolio-website.vercel.app",
             featured: true,
@@ -204,7 +204,7 @@ export const portfolioData = {
             title: "Advanced Railway Safety & Automation",
             description: "An IoT-based smart railway system featuring automated gate control, emergency braking, and real-time remote monitoring via GSM/GPS.",
             technologies: ["Arduino", "IoT", "C++", "ESP32-CAM", "Sensors"],
-            image: "/images/railway-safety.jpg",
+            image: "/images/research.jpeg",
             githubUrl: "https://github.com/yourusername/railway-safety",
             liveDemoUrl: "/files/research_paper.pdf", // Link to Research Paper
             featured: true,
@@ -300,12 +300,12 @@ export const portfolioData = {
         },
         {
             id: 4,
-            name: "VLSI System On Chip Design - Overview",
+            name: "AWS Academic Cloud Foundation and Solution Architect Associate",
             issuer: "Maven-Silicon",
             dateIssued: "Oct 2024",
-            credentialUrl: "/files/VLSI_System_On_Chip_Design.pdf",
+            credentialUrl: "/files/Aws.pdf",
             image: "/images/gcp-cert.png",
-            description: "Understanding the VLSI System On Chip Design - Overview."
+            description: "AWS Academic Cloud Foundation and Solution Architect Associate."
         }
     ],
 
