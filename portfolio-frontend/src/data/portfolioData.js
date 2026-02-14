@@ -302,7 +302,7 @@ export const portfolioData = {
             id: 4,
             name: "AWS Academic Cloud Foundation and Solution Architect Associate",
             issuer: "Maven-Silicon",
-            dateIssued: "Oct 2024",
+            dateIssued: "May 2025",
             credentialUrl: "/files/Aws.pdf",
             image: "/images/gcp-cert.png",
             description: "AWS Academic Cloud Foundation and Solution Architect Associate."
