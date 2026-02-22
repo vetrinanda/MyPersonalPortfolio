@@ -209,6 +209,16 @@ export const portfolioData = {
             liveDemoUrl: "/files/research_paper.pdf", // Link to Research Paper
             featured: true,
             date: "May 2024 - Jun 2024"
+        },{
+            id: 7,
+            title: "AI-Traveller-Planner",
+            description: "TripCraft is a full-stack AI application that creates rich, hour-by-hour day-trip itineraries tailored to your chosen city and personal interests. Simply pick a destination, select what excites you, and let Gemini AI generate a professional, detailed travel plan — complete with timings, local tips, and curated activity suggestions..",
+            technologies: ["React", "FastAPI", "LLM", "Tailwind CSS","Rate limiting"],
+            image: "/images/traveller.png",
+            githubUrl: "https://github.com/vetrinanda/AI-Traveller-Planner",
+            liveDemoUrl: "https://ai-traveller-planner.vercel.app",
+            featured: true,
+            date: "Feb 2026"
         }
     ],
 
