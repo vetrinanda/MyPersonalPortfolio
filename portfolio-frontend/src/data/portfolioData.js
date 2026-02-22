@@ -163,7 +163,7 @@ export const portfolioData = {
             image: "/images/ai.jpeg",
             githubUrl: "https://github.com/vetrinanda/AI-Recruitment-Agent",
             liveDemoUrl: "",
-            featured: true,
+            featured: false,
             date: "January 2026"
         },
         {
@@ -196,7 +196,7 @@ export const portfolioData = {
             image: "/images/portfolio.jpeg",
             githubUrl: "https://github.com/vetrinanda/MyPersonalPortfolio",
             liveDemoUrl: "https://nanda-portfolio-website.vercel.app",
-            featured: true,
+            featured: false,
             date: "Jan 2026"
         },
         {
@@ -205,8 +205,8 @@ export const portfolioData = {
             description: "An IoT-based smart railway system featuring automated gate control, emergency braking, and real-time remote monitoring via GSM/GPS.",
             technologies: ["Arduino", "IoT", "C++", "ESP32-CAM", "Sensors"],
             image: "/images/research.jpeg",
-            githubUrl: "https://github.com/yourusername/railway-safety",
-            liveDemoUrl: "/files/research_paper.pdf", // Link to Research Paper
+            githubUrl: "https://github.com/vetrinanda/Advanced-Railway-Safety---Automation",
+            liveDemoUrl: "https://advanced-railway-safety-automation.vercel.app", // Link to Research Paper
             featured: true,
             date: "May 2024 - Jun 2024"
         },{
