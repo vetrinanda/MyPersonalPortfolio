@@ -96,35 +96,35 @@ export const portfolioData = {
                 "Maintained high level of professionalism in all assigned tasks"
             ],
             link: "https://octanet.in" // Optional: company website or project links
-        },
-        {
-            id: 3,
-            company: "COMEDKARES Innovation Hub",
-            position: "Social Innovation Intern",
-            startDate: "November 2023",
-            endDate: "December 2023",
-            current: false,
-            description: "Worked on social innovation projects focused on developing assistive technologies and solutions for individuals with disabilities. Applied design thinking and technical skills to create impactful projects addressing real-world accessibility challenges.",
-            technologies: [
-                "Design Thinking",
-                "Project Management",
-                "Assistive Technology",
-                "Prototyping",
-                "Team Work",
-                "Documentation",
-                "Arduino",
-                "IOT"
-            ],
-            achievements: [
-                "Developed innovative assistive technology project for wheelchair-to-bed transfer assistance",
-                "Created solutions addressing accessibility challenges for individuals with physical disabilities",
-                "Promoted innovation activities among students through real-world problem-solving projects",
-                "Streamlined administrative workflows and data management systems",
-                "Applied academic knowledge to practical social impact initiatives",
-                "Gained hands-on experience with various software tools and technical platforms"
-            ],
-            link: "https://comedkares.org" // Optional: organization website
         }
+        // {
+        //     id: 3,
+        //     company: "COMEDKARES Innovation Hub",
+        //     position: "Social Innovation Intern",
+        //     startDate: "November 2023",
+        //     endDate: "December 2023",
+        //     current: false,
+        //     description: "Worked on social innovation projects focused on developing assistive technologies and solutions for individuals with disabilities. Applied design thinking and technical skills to create impactful projects addressing real-world accessibility challenges.",
+        //     technologies: [
+        //         "Design Thinking",
+        //         "Project Management",
+        //         "Assistive Technology",
+        //         "Prototyping",
+        //         "Team Work",
+        //         "Documentation",
+        //         "Arduino",
+        //         "IOT"
+        //     ],
+        //     achievements: [
+        //         "Developed innovative assistive technology project for wheelchair-to-bed transfer assistance",
+        //         "Created solutions addressing accessibility challenges for individuals with physical disabilities",
+        //         "Promoted innovation activities among students through real-world problem-solving projects",
+        //         "Streamlined administrative workflows and data management systems",
+        //         "Applied academic knowledge to practical social impact initiatives",
+        //         "Gained hands-on experience with various software tools and technical platforms"
+        //     ],
+        //     link: "https://comedkares.org" // Optional: organization website
+        // }
         // {
         //     id: 3,
         //     company: "StartUp Solutions",
