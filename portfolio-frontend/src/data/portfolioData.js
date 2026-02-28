@@ -271,9 +271,9 @@ export const portfolioData = {
             category: "Tools & DevOps",
             items: [
                 { name: "Git/GitHub", percentage: 90 },
-                { name: "Docker", percentage: 75 }
+                { name: "Docker", percentage: 75 },
                 // { name: "AWS", percentage: 70 },
-                // { name: "CI/CD", percentage: 70 },
+                { name: "CI/CD", percentage: 70 }
                 // { name: "Linux", percentage: 75 }
             ]
         }
