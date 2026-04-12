@@ -38,7 +38,7 @@ export default function Hero() {
             <DotPattern
                 className={cn(
                     "[mask-image:radial-gradient(600px_circle_at_center,white,transparent)]",
-                    "opacity-40"
+                    "opacity-40 dark:hidden"
                 )}
             />
 
@@ -46,7 +46,7 @@ export default function Hero() {
             <DotPattern
                 cr={4} // Much larger radius for stronger effect
                 className={cn(
-                    "opacity-100 mix-blend-overlay pointer-events-none transition-opacity duration-300",
+                    "opacity-100 mix-blend-overlay pointer-events-none transition-opacity duration-300 dark:hidden",
                 )}
                 style={{
                     maskImage: `radial-gradient(250px circle at ${mousePosition.x}px ${mousePosition.y}px, white, transparent)`,
