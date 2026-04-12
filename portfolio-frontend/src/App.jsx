@@ -11,6 +11,7 @@ import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Chatbot from './components/Chatbot';
+import DarkModeBackground from './components/DarkModeBackground';
 import { portfolioData } from './data/portfolioData';
 
 function App() {
@@ -22,7 +23,8 @@ function App() {
 
   return (
     <ThemeProvider>
-      <div className="min-h-screen">
+      <DarkModeBackground />
+      <div className="min-h-screen relative z-[1]">
         {/* SEO Meta Tags */}
         <title>{`${portfolioData.personal.name} | ${portfolioData.personal.title}`}</title>
 
