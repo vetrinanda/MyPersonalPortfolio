@@ -132,6 +132,30 @@
   --sidebar-ring: oklch(0.552 0.016 285.938);
 }
 
+/* Dark Mode Background Image */
+.dark body {
+  background-image: url('/images/dark-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.dark body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.dark body > #root {
+  position: relative;
+  z-index: 1;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
